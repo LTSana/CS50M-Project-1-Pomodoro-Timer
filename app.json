@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "project1",
-    "slug": "project1",
+    "name": "CS50M project1",
+    "slug": "cs50m-project1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "My first mobile app.\nPomodoro Timer to keep track of work and break times.",
+    "githubUrl": "https://github.com/LTSana/CS50M-Project-1-Pomodoro-Timer"
   }
 }
